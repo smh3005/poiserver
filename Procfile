@@ -1,1 +1,1 @@
-web: gunicorn wsgi:poiserver
+web: gunicorn wsgi:app
